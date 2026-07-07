@@ -7,6 +7,7 @@
 <p align="center">
   <img src="assets/images/banner.png" alt="TechNova Enterprise Infrastructure Banner">
 </p>
+
 ## Overview
 
 TechNova Enterprise Infrastructure is a production-style Windows Server environment designed to demonstrate enterprise system administration, automation, cybersecurity, and Infrastructure as Code practices.
