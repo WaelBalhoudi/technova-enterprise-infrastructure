@@ -50,6 +50,21 @@ This project is intended to simulate the IT infrastructure of a medium-sized ent
 - Validate infrastructure health automatically
 
 ---
+# 🚀 Quick Navigation
+
+| Category | Link |
+|----------|------|
+| 📐 Enterprise Architecture | [Open](docs/architecture/01-enterprise-architecture.md) |
+| 🌐 Network Design | [Open](docs/network/02-network-design.md) |
+| 🏢 Active Directory | [Open](docs/active-directory/03-active-directory.md) |
+| 🔐 Security Hardening | [Open](docs/security/16-security-hardening.md) |
+| ⚙️ PowerShell Automation | [Open](docs/powershell/13-powershell-automation.md) |
+| 🤖 Ansible Automation | [Open](docs/ansible/14-ansible-automation.md) |
+| 📖 Operations Manual | [Open](docs/operations/18-operations-manual.md) |
+| 🛠 Troubleshooting | [Open](docs/troubleshooting/19-troubleshooting.md) |
+---
+
+
 
 # 🏢 Enterprise Architecture
 
