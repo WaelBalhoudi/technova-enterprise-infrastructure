@@ -71,4 +71,4 @@ The organization employs approximately **250 users** distributed across multiple
 
 The IT department requires an infrastructure capable of providing centralized identity management, secure remote access, software deployment, centralized updates, and enterprise-grade file sharing.
 
-...
+

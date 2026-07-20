@@ -88,6 +88,12 @@ The infrastructure includes:
 - Ansible Automation
 - Infrastructure as Code
 
+## Enterprise Architecture Diagram
+
+<p align="center">
+  <img src="../../assets/images/enterprise-architecture.png" alt="TechNova Enterprise Architecture" width="500">
+</p>
+
 ---
 
 # 🖥 Virtual Infrastructure
