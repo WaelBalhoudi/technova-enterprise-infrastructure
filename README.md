@@ -225,27 +225,32 @@ Health Reports
 ```
 
 ---
-
 # 📚 Documentation
 
-| Documentation | Status |
-|---------------|--------|
-| Enterprise Architecture | 🚧 |
-| Network Design | 🚧 |
-| Active Directory | 🚧 |
-| DNS | 🚧 |
-| DHCP | 🚧 |
-| Group Policy | 🚧 |
-| File Services | 🚧 |
-| IIS | 🚧 |
-| WSUS | 🚧 |
-| WDS | 🚧 |
-| VPN | 🚧 |
-| NPS | 🚧 |
-| Security | 🚧 |
-| Operations Guide | 🚧 |
-| Troubleshooting | 🚧 |
-| Testing | 🚧 |
+The project documentation is organized into dedicated chapters that cover the complete lifecycle of designing, deploying, securing, automating, and maintaining a Microsoft enterprise infrastructure.
+
+| Chapter | Description | Status |
+|---------|-------------|--------|
+| [Enterprise Architecture](docs/architecture/01-enterprise-architecture.md) | Business requirements, infrastructure overview, VM design, security principles and architecture decisions. | ✅ |
+| [Network Design](docs/network/02-network-design.md) | Enterprise network topology, IP addressing, routing, VLANs, DNS flow and firewall design. | 🚧 |
+| [Active Directory](docs/active-directory/03-active-directory.md) | Forests, domains, trust relationships, Organizational Units, users, groups and delegation. | 🚧 |
+| [DNS](docs/dns/04-dns.md) | DNS zones, forwarding, conditional forwarding, records and troubleshooting. | 🚧 |
+| [DHCP](docs/dhcp/05-dhcp.md) | DHCP scopes, reservations, options, failover and lease management. | 🚧 |
+| [Group Policy](docs/gpo/06-group-policy.md) | Group Policy Objects, security baselines, software deployment and administration. | 🚧 |
+| [File Services](docs/file-services/07-file-services.md) | Shared folders, NTFS permissions, access-based enumeration and DFS Namespace. | 🚧 |
+| [IIS Web Server](docs/iis/08-iis.md) | IIS installation, website deployment, SSL configuration and logging. | 🚧 |
+| [Windows Server Update Services (WSUS)](docs/wsus/09-wsus.md) | Centralized Windows updates, synchronization, approvals and reporting. | 🚧 |
+| [Windows Deployment Services (WDS)](docs/wds/10-wds.md) | PXE boot, deployment images, unattended installation and client deployment. | 🚧 |
+| [VPN (RRAS)](docs/vpn/11-vpn.md) | Secure remote access, VPN configuration and routing. | 🚧 |
+| [Network Policy Server (NPS)](docs/nps/12-nps.md) | RADIUS authentication, policies and VPN integration. | 🚧 |
+| [PowerShell Automation](docs/powershell/13-powershell-automation.md) | Infrastructure automation, provisioning scripts and reporting. | 🚧 |
+| [Ansible Automation](docs/ansible/14-ansible-automation.md) | Windows configuration management using WinRM and Ansible roles. | 🚧 |
+| [Infrastructure Validation](docs/testing/15-validation.md) | Health checks, verification procedures and automated testing. | 🚧 |
+| [Security Hardening](docs/security/16-security-hardening.md) | Least privilege, LAPS, auditing, firewall, password policies and security baselines. | 🚧 |
+| [Backup & Disaster Recovery](docs/backup/17-backup-disaster-recovery.md) | Backup strategy, Active Directory recovery and disaster recovery planning. | 🚧 |
+| [Operations Manual](docs/operations/18-operations-manual.md) | Daily administration tasks, user management, maintenance and monitoring. | 🚧 |
+| [Troubleshooting Guide](docs/troubleshooting/19-troubleshooting.md) | Common issues, diagnostics, PowerShell commands and resolutions. | 🚧 |
+| [Project Reports](reports/) | Validation reports, inventories and infrastructure health reports. | 🚧 |
 
 ---
 
